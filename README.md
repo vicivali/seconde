@@ -1,2 +1,2 @@
-# seconde
+# Seconde
 Mes projets de seconde
